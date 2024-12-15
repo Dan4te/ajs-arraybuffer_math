@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/rtmn16nffm7su0vo?svg=true)](https://ci.appveyor.com/project/Dan4te/ajs-arraybuffer-math)
 
 # Домашнее задание к лекции «`ArrayBuffer`»
 
